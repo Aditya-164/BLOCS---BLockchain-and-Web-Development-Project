@@ -1,0 +1,8 @@
+BOOTSTRAP_NODES = [
+    ("127.0.0.1", 8468),
+    ("127.0.0.1", 8469),
+    ("127.0.0.1", 8470)
+]
+
+K_BUCKET_SIZE = 20
+GOSSIP_INTERVAL = 1
