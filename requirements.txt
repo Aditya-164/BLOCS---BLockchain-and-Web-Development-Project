@@ -1,0 +1,16 @@
+## file_layer
+# For Reed-Solomon encoding/decoding
+reedsolo==1.5.4
+pycryptodome==3.18.0
+# for loading YAML configuration 
+Cython==3.0.11
+pyyaml==6.0.2
+
+## network_layer
+# For colored output
+termcolor==2.5.0
+# For network communication
+
+## incentive_layer
+# For setting up web3 connection
+web3==7.5.0

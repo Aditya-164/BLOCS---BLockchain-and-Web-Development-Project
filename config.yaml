@@ -1,0 +1,11 @@
+## file storage layer
+DEFAULT_SHARD_SIZE: 1024  # Shard size in bytes
+DEFAULT_ERROR_CORRECTION: 10 # Error correction level
+
+
+## network layer
+BUFFER_SIZE: 2048  # Buffer size for reading and writing data in network (bytes)
+
+## incentive layer
+DEFAULT_NETWORK_URL: "0xd457540c3f08f7F759206B5eA9a4cBa321dE60DC" # Sepolia Arbitrum RPC URL
+DEFAULT_CONTRACT_ADDRESS: "0xd457540c3f08f7F759206B5eA9a4cBa321dE60DC" # Sepolia Arbitrum contract address
